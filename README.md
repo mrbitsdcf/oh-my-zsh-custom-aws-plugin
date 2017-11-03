@@ -4,9 +4,9 @@ Custom AWS plugin to Oh-My-ZSH
 Requirements:
 -------------
 
-* An AWS account (of course)
-* *aws-cli*
-* *~/.aws/credentials*
+* **An AWS account (of course)**
+* **aws-cli**
+* **~/.aws/credentials**
 
 Installation
 ------------
@@ -21,9 +21,11 @@ git clone https://github.com/mrbitsdcf/oh-my-zsh-custom-aws-plugin.git aws
 Contribute
 ----------
 
-Fork this repository.
-Make your improvements.
-Submit a pull request.
+- Fork this repository.
+
+- Make your improvements.
+
+- Submit a pull request.
 
 
 LICENSE
